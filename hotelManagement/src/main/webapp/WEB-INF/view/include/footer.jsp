@@ -1,0 +1,1 @@
+<div align="center">&COPY;by Khairuz</div>
